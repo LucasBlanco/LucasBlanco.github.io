@@ -4,7 +4,7 @@
 
 <div style="width: 150px; height: 150px; background-color: red">
 
-<div>
+</div>
 # Florencia Blanco
 ## Psicologia
 
