@@ -27,9 +27,9 @@ $main-color: #945eae;
   display: flex;
   justify-content: space-between;
   align-items: center;
-  margin-bottom: 50px ;
+  margin-bottom: 100px ;
   img{
-    max-width: 500px;
+    max-width: 50%;
   }
 }
 
@@ -44,5 +44,8 @@ $main-color: #945eae;
 @media(max-width:'600px'){
   .material{
     flex-direction: column;
+    img{
+      max-width: 100%;
+    }
   }
 }
