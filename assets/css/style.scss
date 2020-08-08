@@ -14,6 +14,11 @@ $main-color: #945eae;
  }
 }
 
+.center{
+  display: flex;
+  justify-content: center;
+}
+
 .material{
   display: flex;
   justify-content: space-between;
