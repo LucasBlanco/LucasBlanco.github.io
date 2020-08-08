@@ -34,12 +34,11 @@ $main-color: #945eae;
 }
 
 .precio{
-  background-color: rgb(72, 153, 72);
+  background-color: #7ae37a;
   padding: 5px 10px;
   border-radius: 55px;
-  p,h1,h2,h3,h4{
-    color: white
-  }
+  color: white;
+  font-weight: 600;
 }
 
 @media(max-width:'600px'){
