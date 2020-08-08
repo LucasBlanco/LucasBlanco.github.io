@@ -15,7 +15,7 @@
             </div>
         </div>
     </div>
-    <div class="material">
+    <div class="material inverso">
         <div>
             <h1>Tarjetas emociones adultos</h1>
             <p>Logra encontrar las emociones escondidas en tus pacientes, sus mas oscuros secretos y la posibilidad o no de que mate a su esposa en las proximas 48 horas</p>
