@@ -6,7 +6,7 @@
 
 <div class="materiales">
 <div class="material">
-    <img src="hola.jpg">
+    <img src="red_vintage_primrose_dog_bandana.jpg">
     <div>
     <ul>
        <li>Hola como estas</li>
