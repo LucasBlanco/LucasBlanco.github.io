@@ -33,7 +33,16 @@ $main-color: #945eae;
   }
 }
 
-@media(min-width:'600px'){
+.precio{
+  background-color: rgb(72, 153, 72);
+  padding: 5px 10px;
+  border-radius: 55px;
+  p,h1,h2,h3,h4{
+    color: white
+  }
+}
+
+@media(max-width:'600px'){
   .material{
     flex-direction: column;
   }

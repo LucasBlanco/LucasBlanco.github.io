@@ -5,14 +5,22 @@
 </div>
 
 <div class="materiales">
-<div class="material">
-    <img src="hola.jpg">
-    <div>
-    <ul>
-       <li>Hola como estas</li>
-       <li>me llamo lucas</li>
-        <li>tengo 25 años </li>
-    </ul> 
+    <div class="material">
+        <img src="hola.jpg">
+        <div>
+            <h1>Tarjetas emociones adultos</h1>
+            <p>Logra encontrar las emociones escondidas en tus pacientes, sus mas oscuros secretos y la posibilidad o no de que mate a su esposa en las proximas 48 horas</p>
+            <div class="precio">$1500</div> 
+        </div>
+    </div>
+    <div class="material">
+        <div>
+            <h1>Tarjetas emociones adultos</h1>
+            <p>Logra encontrar las emociones escondidas en tus pacientes, sus mas oscuros secretos y la posibilidad o no de que mate a su esposa en las proximas 48 horas</p>
+            <div class="precio">$1500</div> 
+        </div>
+        <img src="hola.jpg">
+    </div>
 </div>
-</div>
+
 
