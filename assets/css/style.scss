@@ -13,3 +13,18 @@ $main-color: #945eae;
   color: $main-color
  }
 }
+
+.material{
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  img{
+    max-width: 500px;
+  }
+}
+
+@media(min-width:'600px'){
+  .material{
+    flex-direction: column;
+  }
+}
