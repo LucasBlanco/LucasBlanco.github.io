@@ -19,7 +19,9 @@
         <div>
             <h1>Tarjetas emociones adultos</h1>
             <p>Logra encontrar las emociones escondidas en tus pacientes, sus mas oscuros secretos y la posibilidad o no de que mate a su esposa en las proximas 48 horas</p>
-            <div class="precio">$1500</div> 
+            <div class="center">
+              <div class="precio">$1500</div> 
+            </div>
         </div>
         <img src="red_vintage_primrose_dog_bandana.jpg">
     </div>
